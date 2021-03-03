@@ -7,8 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "http://liftoff.io"
   spec.author       = { "Liftoff" => "sdk@liftoff.io" }
   spec.description  = <<-DESC
-    This adapter allows publishers to use Liftoff's publisher SDK with MoPub
-    mediation.
+    This adapter allows publishers to use Liftoff's publisher SDK with MoPub mediation.
   DESC
 
   spec.platform     = :ios, "10.0"
