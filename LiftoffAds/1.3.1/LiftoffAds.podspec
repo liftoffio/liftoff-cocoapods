@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "http://liftoff.io"
   spec.author       = { "Liftoff" => "sdk@liftoff.io" }
   spec.description  = <<-DESC
-    This SDK allows publishers to monitize their apps with banners, mrect,
+    This SDK allows publishers to monetize their apps with banners, mrect,
     and interstitial ads served by Liftoff.
   DESC
 
